@@ -35,5 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "http://imamwirt007.github.io/CV"
+  "homepage": "http://imamwirt007.github.io/CV",
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
+  }
 }
