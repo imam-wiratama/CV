@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import QueueAnim from 'rc-queue-anim';
+// import QueueAnim from 'rc-queue-anim';
 
 import './App.css';
 
@@ -49,7 +49,7 @@ export default class App extends Component{
     return(
       <>
 
-    <QueueAnim>
+    {/* <QueueAnim> */}
     <div key="1"><div class="area" >
             <ul class="circles">
                     <li>
@@ -81,7 +81,7 @@ export default class App extends Component{
            <div key="2" class="context">
             <h1>Imam Wiratama</h1>
     </div>
-  </QueueAnim>
+  {/* </QueueAnim> */}
 
       </>
     )
